@@ -1,0 +1,28 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+      <loc>{{ site.url }}/</loc>
+    </url>
+    <url>
+      <loc>{{ site.url }}/projects/</loc>
+    </url>
+    <url>
+      <loc>{{ site.url }}/publications/</loc>
+    </url>
+    <url>
+      <loc>{{ site.url }}/experience/</loc>
+    </url>
+    <url>
+      <loc>{{ site.url }}/hobbies/</loc>
+    </url>
+    {% comment %}
+    {% for post in site.posts %}
+    <url>
+        <loc>{{ site.url }}{{ post.url }}</loc>
+    </url>
+    {% endfor %}
+    {% endcomment %}
+</urlset>
