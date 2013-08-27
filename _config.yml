@@ -2,7 +2,7 @@ title: Jason Ansel
 #tagline:          A short tagline
 #description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
-#url:              http://localhost:4000/
+url: http://jasonansel.com
 
 # Owner/author information
 owner:
@@ -35,7 +35,7 @@ links:
     url: /projects/
   - title: Publications
     url: /publications/
-  - title: Work Experience
+  - title: Experience
     url: /experience/
   - title: Hobbies
     url: /hobbies/

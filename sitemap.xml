@@ -4,19 +4,19 @@ layout: nil
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-      <loc>{{ site.url }}/</loc>
+      <loc>http://jasonansel.com/</loc>
     </url>
     <url>
-      <loc>{{ site.url }}/projects/</loc>
+      <loc>http://jasonansel.com/projects/</loc>
     </url>
     <url>
-      <loc>{{ site.url }}/publications/</loc>
+      <loc>http://jasonansel.com/publications/</loc>
     </url>
     <url>
-      <loc>{{ site.url }}/experience/</loc>
+      <loc>http://jasonansel.com/experience/</loc>
     </url>
     <url>
-      <loc>{{ site.url }}/hobbies/</loc>
+      <loc>http://jasonansel.com/hobbies/</loc>
     </url>
     {% comment %}
     {% for post in site.posts %}

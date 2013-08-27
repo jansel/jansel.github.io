@@ -22,9 +22,11 @@
     {% include author-bio.html %}
   </div>
   <article itemscope itemtype="http://schema.org/CreativeWork">
+  {% comment %}
     <div class="headline-wrap">
       <h1 itemprop="headline">{{ page.title }}</h1>
     </div><!--/ .headline-wrap -->
+  {% endcomment %}
     <div class="article-wrap" itemprop="text">
       {{ content }}
     </div><!-- /.article-wrap -->
@@ -37,7 +39,7 @@
   </footer>
 </div><!-- /.footer-wrap -->
 
-{% include scripts.html %}          
+{% include scripts.html %}
 
 </body>
 </html>

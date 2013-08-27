@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /experience/index.html
-title: Work Experience
+title: Experience
 ---
 
-## Companies
+# Work Experience
 
 ### GoDaddy (2013-)
   - Director of Machine Learning
@@ -52,7 +52,7 @@ title: Work Experience
   - Web development in PHP/SQL
 
 
-## Academic
+# Academic Experience
 
 ### Massachusetts Institute of Technology (2007-2009: MS; 2009-2013: PhD)
   - Teaching Assistant: _6.035 Computer Language Engineering_ (Fall 2010)

@@ -1,8 +1,10 @@
 ---
 layout: page
-title: About Me
 ---
 
+# About Me
+
+<img src="/images/jasonansel2.png"  class="floatpic">
 My name is Jason Ansel and I am a 6th year PhD student in [CSAIL] at [MIT]. I
 do research with [Saman Amarasinghe] in the [Commit] Group.  I plan to
 graduate this year.  After graduation, I will be the Director of Machine
