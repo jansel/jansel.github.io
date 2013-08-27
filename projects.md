@@ -42,10 +42,12 @@ the user level.
 [LendingClubChecker] is a python script to perform automated trading on the
 peer to peer lending site Lending Club.
 
+{% comment %}
 ## [ShowDB]
 
 [ShowDB] is a script to index and automatically download TV shows with
 Bit Torrent.
+{% endcomment %}
 
 # Open Source Contributions
 
