@@ -29,7 +29,7 @@ enforcing a dynamically computed and efficient ordering of lock acquisitions.
 
 ## [DMTCP]
 
-[DMTCP] (Distributed MultiThreaded Checkpointing) is a tool to transparently
+[DMTCP][DMTCP] (Distributed MultiThreaded Checkpointing) is a tool to transparently
 checkpoint and restart the state of a distributed cluster computation that
 communicates through MPI or sockets.  It works on unmodified binaries at
 the user level.
