@@ -18,6 +18,18 @@ pubs:
     year: 2013
     hidden: true
 
+  - key: "ansel:mitcsail-tr:2013"
+    title: "OpenTuner: An Extensible Framework for Program Autotuning"
+    author: "Jason Ansel, Shoaib Kamil, Kalyan Veeramachaneni, Una-May O'Reilly, Saman Amarasinghe"
+    month: "Nov"
+    year: "2013"
+    url: "http://dspace.mit.edu/handle/1721.1/81958"
+    keywords: "OpenTuner"
+    number: "MIT/CSAIL Technical Report MIT-CSAIL-TR-2013-026"
+    type: "Technical Report"
+    address: "Cambridge, MA"
+    institution: "Massachusetts Institute of Technology"
+
   - key: "phothilimthana:asplos:2013"
     title: "Portable Performance on Heterogeneous Architectures"
     author: "Phitchaya Mangpo Phothilimthana, Jason Ansel, Jonathan Ragan-Kelley, Saman Amarasinghe"
