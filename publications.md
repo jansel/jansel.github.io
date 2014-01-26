@@ -88,7 +88,7 @@ pubs:
     address: "Newport Beach, CA"
 
   - key: "ansel:cgo:2011"
-    title: "Language, Compiler Support for Auto-Tuning Variable-Accuracy Algorithms"
+    title: "Language and Compiler Support for Auto-Tuning Variable-Accuracy Algorithms"
     author: "Jason Ansel, Yee Lok Won ans Cy Chan, Marek Olszewski, Alan Edelman, Saman Amarasinghe"
     booktitle: "The International Symposium on Code Generation, Optimization"
     address: "Chamonix, France"
@@ -117,7 +117,7 @@ pubs:
     author: "Jason Ansel, Yee Lok Won ans Cy Chan, Marek Olszewski, Alan Edelman, Saman Amarasinghe"
     month: "Jul"
     year: "2010"
-    title: "Language, Compiler Support for Auto-Tuning Variable-Accuracy Algorithms"
+    title: "Language and Compiler Support for Auto-Tuning Variable-Accuracy Algorithms"
     url: "http://groups.csail.mit.edu/commit/papers/2010/MIT-CSAIL-TR-2010-032.pdf"
     keywords: "PetaBricks"
     number: "MIT/CSAIL Technical Report MIT-CSAIL-TR-2010-032"
