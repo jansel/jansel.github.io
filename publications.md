@@ -18,6 +18,30 @@ pubs:
     year: 2013
     hidden: true
 
+  - key: "ansel:phd-thesis:2014"
+    title: "Autotuning Programs with Algorithmic Choice"
+    author: "Jason Ansel"
+    month: "February"
+    year: "2014"
+    url: "http://groups.csail.mit.edu/commit/papers/2014/ansel-phd-thesis.pdf"
+    slides: "http://groups.csail.mit.edu/commit/papers/2014/ansel-phd-thesis-slides.pdf"
+    keywords: "PetaBricks, OpenTuner"
+    type: "Ph.D. Thesis"
+    address: "Cambridge, MA"
+    school: "Massachusetts Institute of Technology"
+
+  - key: "ansel:mitcsail-tr:2013"
+    title: "OpenTuner: An Extensible Framework for Program Autotuning"
+    author: "Jason Ansel, Shoaib Kamil, Kalyan Veeramachaneni, Una-May O'Reilly, Saman Amarasinghe"
+    month: "Nov"
+    year: "2013"
+    url: "http://dspace.mit.edu/handle/1721.1/81958"
+    keywords: "OpenTuner"
+    number: "MIT/CSAIL Technical Report MIT-CSAIL-TR-2013-026"
+    type: "Technical Report"
+    address: "Cambridge, MA"
+    institution: "Massachusetts Institute of Technology"
+
   - key: "phothilimthana:asplos:2013"
     title: "Portable Performance on Heterogeneous Architectures"
     author: "Phitchaya Mangpo Phothilimthana, Jason Ansel, Jonathan Ragan-Kelley, Saman Amarasinghe"
