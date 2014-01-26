@@ -54,7 +54,7 @@ title: Experience
 
 # Academic Experience
 
-### Massachusetts Institute of Technology (2007-2009: MS; 2009-2013: PhD)
+### Massachusetts Institute of Technology (2007-2009: MS; 2009-2014: PhD)
   - Teaching Assistant: _6.035 Computer Language Engineering_ (Fall 2010)
   - Research Assistant (2007-2013)
 

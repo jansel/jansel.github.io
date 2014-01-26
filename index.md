@@ -5,14 +5,16 @@ layout: page
 # About Me
 
 <img src="/images/jasonansel2.png"  class="floatpic">
-My name is Jason Ansel and I am a 6th year PhD student in [CSAIL] at [MIT]. I
-do research with [Saman Amarasinghe] in the [Commit] Group.  I plan to
-graduate this year.  After graduation, I will be the Director of Machine
-Learning at GoDaddy.
+My name is Jason Ansel. Since 2011, I have been working for the startup [Locu]
+([acquired by GoDaddy] in 2013) while also pursuing my PhD at [MIT].
+I recently finished my PhD and I am now working full time as the Director
+of Machine Learning at GoDaddy.  I was the first non-founder employee of
+Locu and my work there focuses on creating machine learning algorithms for
+extracting semantic information from unstructured web content.
 
-My current primary project is [OpenTuner], an extensible framework for
-program autotuning.  We are currently looking for users, if interested the
-source code is available on the [OpenTuner] site and you can reach me at
+I spend much of my free time working on [OpenTuner], an extensible framework
+for program autotuning.  We are currently looking for users, if interested
+the source code is available on the [OpenTuner] site and you can reach me at
 `jasonansel@jasonansel.com` with questions.
 
 Earlier at MIT I started the [PetaBricks] language and compiler project.
@@ -21,10 +23,6 @@ integrated autotuner to explore search spaces of program implementations.
 As an undergraduate I did research with [Gene Cooperman] and helped create
 [DMTCP], a user-level distributed checkpoint/restart system.
 
-Since 2011, I have also been working for the startup [Locu] on the side.
-I was the first non-founder employee of Locu and my work focused on created
-machine learning algorithms for extracting semantic information from
-unstructured web content.  In Augst 2013 Locu was [acquired by GoDaddy].
 
 [acquired by GoDaddy]: http://allthingsd.com/20130819/godaddy-acquires-merchant-finder-startup-locu-for-70-million/
 [CSAIL]: http://www.csail.mit.edu/
