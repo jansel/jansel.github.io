@@ -3,20 +3,27 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 pubs:
+  - key: "ansel:pact:2014"
+    author: "Jason Ansel, Shoaib Kamil, Kalyan Veeramachaneni, Jonathan Ragan-Kelley, Jeffrey Bosboom, Una-May O'Reilly, Saman Amarasinghe"
+    title: "OpenTuner: An Extensible Framework for Program Autotuning"
+    url: "http://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner.pdf"
+    keywords: "OpenTuner"
+    month: "August"
+    year: "2014"
+    address: "Edmonton, Canada"
+    booktitle: "International Conference on Parallel Architectures and Compilation Techniques"
 
-  - title: "OpenTuner: An Extensible Framework for Program Autotuning"
-    author: "Jason Ansel, Shoaib Kamil, Kalyan Veeramachaneni, Una-May O'Reilly, Saman Amarasinghe"
-    type: Submitted for review
-    month: June
-    year: 2013
-    hidden: true
-
-  - title: "Autotuning Algorithmic Choice for Input Sensitivity"
+  - key: "ding:mitcsail-tr:2014"
     author: "Yufei Ding, Jason Ansel, Kalyan Veeramachaneni, Xipeng Shen, Una-May O'Reilly, Saman Amarasinghe"
-    type: Submitted for review
-    month: June
-    year: 2013
-    hidden: true
+    month: "June"
+    year: "2014"
+    title: "Autotuning Algorithmic Choice for Input Sensitivity"
+    url: "http://groups.csail.mit.edu/commit/papers/2014/MIT-CSAIL-TR-2014-014.pdf"
+    keywords: "PetaBricks"
+    number: "MIT/CSAIL Technical Report MIT-CSAIL-TR-2014-014"
+    type: "Technical Report"
+    address: "Cambridge, MA"
+    institution: "Massachusetts Institute of Technology"
 
   - key: "ansel:phd-thesis:2014"
     title: "Autotuning Programs with Algorithmic Choice"
