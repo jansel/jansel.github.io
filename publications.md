@@ -7,6 +7,7 @@ pubs:
     author: "Jason Ansel, Shoaib Kamil, Kalyan Veeramachaneni, Jonathan Ragan-Kelley, Jeffrey Bosboom, Una-May O'Reilly, Saman Amarasinghe"
     title: "OpenTuner: An Extensible Framework for Program Autotuning"
     url: "http://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner.pdf"
+    slides: "http://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner-slides.pdf"
     keywords: "OpenTuner"
     month: "August"
     year: "2014"
@@ -120,7 +121,7 @@ pubs:
 
   - key: "ansel:cgo:2011"
     title: "Language and Compiler Support for Auto-Tuning Variable-Accuracy Algorithms"
-    author: "Jason Ansel, Yee Lok Won ans Cy Chan, Marek Olszewski, Alan Edelman, Saman Amarasinghe"
+    author: "Jason Ansel, Yee Lok Won, Cy Chan, Marek Olszewski, Alan Edelman, Saman Amarasinghe"
     booktitle: "The International Symposium on Code Generation, Optimization"
     address: "Chamonix, France"
     month: "Apr"
@@ -145,7 +146,7 @@ pubs:
     year: "2010"
 
   - key: "ansel:mitcsail-tr:2010"
-    author: "Jason Ansel, Yee Lok Won ans Cy Chan, Marek Olszewski, Alan Edelman, Saman Amarasinghe"
+    author: "Jason Ansel, Yee Lok Won, Cy Chan, Marek Olszewski, Alan Edelman, Saman Amarasinghe"
     month: "Jul"
     year: "2010"
     title: "Language and Compiler Support for Auto-Tuning Variable-Accuracy Algorithms"

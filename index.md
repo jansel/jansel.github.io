@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="/images/jasonansel2.png"  class="floatpic">
+<img src="/images/jasonansel3.jpg"  class="floatpic" width="200" height="200">
 My name is Jason Ansel. Since 2011, I have been working for the startup [Locu]
 ([acquired by GoDaddy] in 2013) while also pursuing my PhD at [MIT].
 I recently finished my PhD and I am now working full time as the Director
