@@ -3,6 +3,16 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 pubs:
+  - key: "ding:pldi:2015"
+    author: "Yufei Ding, Jason Ansel, Kalyan Veeramachaneni, Xipeng Shen, Una-May O’Reilly, Saman Amarasinghe"
+    title: "Autotuning Algorithmic Choice for Input Sensitivity"
+    keywords: "OpenTuner"
+    month: "June"
+    year: "2015"
+    address: "Portland, Oregon"
+    booktitle: "ACM SIGPLAN Conference on Programming Language Design, Implementation"
+
+
   - key: "ansel:pact:2014"
     author: "Jason Ansel, Shoaib Kamil, Kalyan Veeramachaneni, Jonathan Ragan-Kelley, Jeffrey Bosboom, Una-May O'Reilly, Saman Amarasinghe"
     title: "OpenTuner: An Extensible Framework for Program Autotuning"
