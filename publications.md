@@ -3,15 +3,25 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 pubs:
+  - author: "Daniel Haas, Jason Ansel, Lydia Gu, Adam Marcus"
+    title: "Argonaut: Macrotask Crowdsourcing for Complex Data Processing"
+    keywords: "Locu"
+    month: "September"
+    year: "2015"
+    address: "Kohala Coast, Hawaii"
+    booktitle: "International Conference on Very Large Data Bases"
+    url: 2015vldb-argonaut.pdf
+    bibtex: 2015vldb-argonaut.bib
+
   - key: "ding:pldi:2015"
     author: "Yufei Ding, Jason Ansel, Kalyan Veeramachaneni, Xipeng Shen, Una-May O’Reilly, Saman Amarasinghe"
     title: "Autotuning Algorithmic Choice for Input Sensitivity"
+    url: "http://groups.csail.mit.edu/commit/papers/2015/yding-pldi15-pbinput.pdf"
     keywords: "OpenTuner"
     month: "June"
     year: "2015"
     address: "Portland, Oregon"
     booktitle: "ACM SIGPLAN Conference on Programming Language Design, Implementation"
-
 
   - key: "ansel:pact:2014"
     author: "Jason Ansel, Shoaib Kamil, Kalyan Veeramachaneni, Jonathan Ragan-Kelley, Jeffrey Bosboom, Una-May O'Reilly, Saman Amarasinghe"
