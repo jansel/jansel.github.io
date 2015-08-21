@@ -5,13 +5,13 @@ layout: page
 # About Me
 
 <img src="/images/jasonansel3.jpg" class="floatpic" width="200" height="200">
-My name is Jason Ansel.  I am the Director of Machine Learning at
-GoDaddy, which I joined in 2013 as part of the [acquisition] of the startup
-[Locu][locu].  I started working for Locu in 2011, while I was simultaneously
-pursuing my PhD at [MIT][MIT] [CSAIL][CSAIL], which I completed in 2013.
-I was the first non-founder employee of Locu and my work there and at GoDaddy
-focuses on creating machine learning algorithms for extracting semantic
-information from unstructured web content.
+My name is Jason Ansel.  I am a Director of Engineering at GoDaddy, which
+I joined in 2013 as part of the [acquisition] of the startup [Locu][locu].
+I started working for Locu in 2011, while I was simultaneously pursuing
+my PhD at [MIT][MIT] [CSAIL][CSAIL], which I completed in 2013.  I was the
+first non-founder employee of Locu and my work there and at GoDaddy focuses
+on creating machine learning algorithms for extracting semantic information
+from unstructured web content.
 
 I spend some of my free time working on [OpenTuner], an extensible framework
 for program autotuning.  We are currently looking for users, if interested

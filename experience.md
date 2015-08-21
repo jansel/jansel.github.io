@@ -7,9 +7,9 @@ title: Experience
 # Work Experience
 
 ### GoDaddy (2013-)
-  - Director of Machine Learning
+  - Director of Engineering
   - Continuing work in Locu ([acquired by GoDaddy][news1], August 2013)
- 
+
 [news1]: http://allthingsd.com/20130819/godaddy-acquires-merchant-finder-startup-locu-for-70-million/
 
 ### Locu (2011-2013)
