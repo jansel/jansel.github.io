@@ -9,15 +9,15 @@ title: Hobbies
 ## Coffee Roasting
 
 <img src="/images/coffee.jpg" class="floatpic">
-I drink a lot of coffee, and especially enjoy light roast espresso.
-These lighter roasts allow the flavors of the different types of coffee
-beans to stand out more.  Since 2009, I have been roasting my own coffee from
-green coffee beans.  I started out using the oven, then later switched using
-a series of home roasting machines.  Currently I am using a Behmor 1600.
-My favorite coffee so far is an [Ecuador Organic Zamora], but I tend to
-spend most of my time trying new types.
+I drink a lot of coffee, and especially enjoy light roast espresso.  These
+lighter roasts allow the flavors of the different types of coffee beans to
+stand out more.  Starting in 2009, I roasted my coffee from green coffee beans.
+I started out using the oven, then later switched utilizing a series of home
+roasting machines.  For those looking to get into coffee roasting, I would
+recommend a [Behmor 1600].  I enjoy trying new types of coffee beans and
+building tables to explore the search space of roasting parameters.
 
-[Ecuador Organic Zamora]: http://www.sweetmarias.com/coffee.archive.2012.php?country=64#3880
+[Behmor 1600]: https://behmor.com/behmor-1600-plus/
 
 ## Cooking
 
@@ -35,10 +35,8 @@ Thai dishes.  I am always up to learn how to to cook a exotic new dish.
 ## Powerlifting
 
 <img src="/images/baystate_meet_042_scaled.jpg" class="floatpic">
-In my free time I do powerlifting to stay healthy.  While it has been a
-number of years since I competed, I am actively training and go to the gym
-3 to 5 times per week.  My current training maxes are 415lb squat, 275lb bench,
-455lb deadlift.
+In my free time I do powerlifting to stay healthy.  While it has been many
+years since I competed, I still frequently train.
 
 ## Past Hobbies
 

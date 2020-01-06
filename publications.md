@@ -3,6 +3,27 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 pubs:
+  - author: "Jason Ansel, Marek Olszewski"
+    title: "BFTree - Scaling HotStuff to Millions of Validators"
+    month: "June"
+    year: "2019"
+    booktitle: "Whitepaper"
+    url: "https://medium.com/celohq/bftree-scaling-hotstuff-to-millions-of-validators-7d6930ee046a"
+
+  - author: "Dongqi Su, Ying Yin Ting, Jason Ansel"
+    title: "Tight Prediction Intervals Using Expanded Interval Minimization"
+    month: "June"
+    year: "2018"
+    booktitle: "Technical Report"
+    url: "https://arxiv.org/abs/1806.11222"
+
+  - author: "Jason Ansel, Han Hong, Jessie Li"
+    title: "OLS and 2SLS in Randomized and Conditionally Randomized Experiments"
+    month: "March"
+    year: "2018"
+    booktitle: "Journal of Economics and Statistics"
+    url: "https://doi.org/10.1515/jbnst-2018-0016"
+
   - author: "Daniel Haas, Jason Ansel, Lydia Gu, Adam Marcus"
     title: "Argonaut: Macrotask Crowdsourcing for Complex Data Processing"
     keywords: "Locu"
@@ -289,5 +310,8 @@ pubs:
 {% endunless %}
 {% endfor %}
 
+# Patents
+
+See [Google Patent Search results](https://patents.google.com/?inventor=Jason+Ansel,-Lango&num=100&sort=old).
 
 
