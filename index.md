@@ -5,16 +5,16 @@ layout: page
 # About Me
 
 <img src="/images/jasonansel4.jpg" class="floatpic" width="200" height="300">
-My name is Jason Ansel.  I am a Senior Principal Engineer at GoDaddy, where I
-help lead the GoDaddy Machine Learning team.  Our team builds a deep learning
-platform for predicting small business behavior and personalizing experiences
-across GoDaddy.  Before that, I created [GoDaddy Domain Appraisals], which
-uses neural networks to predict the resale value of a domain name
-better than a human expert.  At GoDaddy, I also worked on creating machine
-learning algorithms for extracting semantic information from unstructured
-web content.  I joined GoDaddy in 2013 as part of the [acquisition] of the
-startup [Locu], which I joined in 2011 while I was simultaneously getting
-my Ph.D. at [MIT][MIT] [CSAIL].
+My name is Jason Ansel.  I am currently working on PyTorch Compilers
+at Facebook.
+
+Before Facebook, I was at GoDaddy helping build a deep learning platform
+for predicting small business behavior and personalizing experiences across
+the company.  I also created [GoDaddy Domain Appraisals], which uses neural
+networks to predict the resale value of a domain name better than a human
+expert.  I joined GoDaddy in 2013 as part of the [acquisition] of the startup
+[Locu], which I joined in 2011 while I was simultaneously getting my Ph.D. at
+[MIT][MIT] [CSAIL].
 
 I did my Ph.D. dissertation in the [Commit] group lead by  [Saman Amarasinghe].
 I started the [OpenTuner] project, an extensible framework for program
