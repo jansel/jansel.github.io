@@ -2,21 +2,21 @@
 layout: nil
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-      <loc>http://jasonansel.com/</loc>
+      <loc>https://jasonansel.com/</loc>
     </url>
     <url>
-      <loc>http://jasonansel.com/projects/</loc>
+      <loc>https://jasonansel.com/projects/</loc>
     </url>
     <url>
-      <loc>http://jasonansel.com/publications/</loc>
+      <loc>https://jasonansel.com/publications/</loc>
     </url>
     <url>
-      <loc>http://jasonansel.com/experience/</loc>
+      <loc>https://jasonansel.com/experience/</loc>
     </url>
     <url>
-      <loc>http://jasonansel.com/hobbies/</loc>
+      <loc>https://jasonansel.com/hobbies/</loc>
     </url>
     {% comment %}
     {% for post in site.posts %}
